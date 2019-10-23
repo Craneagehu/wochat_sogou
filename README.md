@@ -1,1 +1,1 @@
-# wochat_sogou
+# wechat_sogou
